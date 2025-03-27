@@ -35,11 +35,10 @@ export default function Footer(props) {
           )}
           <BeiAnGongAn />
           <span className='no-underline ml-4'>
-            Powered by
             <a
-              href='https://github.com/tangly1024/NotionNext'
+              href='https://yangmaojun.vercel.app/disclaimer'
               className=' hover:underline'>
-              NotionNext {siteConfig('VERSION')}
+              Disclaimer
             </a>
           </span>
         </div>
