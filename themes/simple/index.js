@@ -239,7 +239,7 @@ const LayoutSlug = props => {
           </div>
 
           {/* 分享 */}
-          <ShareBar post={post} />
+          {/* <ShareBar post={post} /> */}
 
           {/* 广告嵌入 */}
           <AdSlot type={'in-article'} />
