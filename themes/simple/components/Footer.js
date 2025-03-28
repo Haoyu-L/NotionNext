@@ -41,6 +41,13 @@ export default function Footer(props) {
               Disclaimer
             </a>
           </span>
+          <span className='no-underline ml-4'>
+            <a
+              href='mailto:fdd2n2kk@anonaddy.me'
+              className='hover:underline'>
+              Contact Us
+            </a>
+          </span>
         </div>
       </div>
     </footer>
